@@ -1,10 +1,10 @@
 # jpeg-encryptor
 This project shows how to encrypt / decrypt a jpeg format, while the following is preserved:
 - The file size remains the same
-- The encrypted file is also a valid jpeg format
+- The encrypted file remains valid as a jpeg as well
 
 ## Why should I use it?
-There are better ways to encrypt a file - no matter if its a jpeg or any other format (not necessarily an image).
+There are better ways to encrypt a file - no matter if it's a jpeg or any other format (not necessarily an image).
 Using this algorithm allows you to enctypt a jpeg file - and still **all image viewers will be able to see this image**, read it, and show
 some kind of image.
 
