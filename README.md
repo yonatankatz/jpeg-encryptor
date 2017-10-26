@@ -5,7 +5,7 @@ This project shows how to encrypt / decrypt a jpeg format, while the following i
 
 ## Why should I use it?
 There are better ways to encrypt a file - no matter if it's a jpeg or any other format (not necessarily an image).
-Using this algorithm allows you to enctypt a jpeg file - and still **all image viewers will be able to see this image**, read it, and show
+Using this algorithm allows you to encrypt a jpeg file - and still **all image viewers will be able to see this image**, read it, and show
 some kind of image.
 
 ## How to use it?
