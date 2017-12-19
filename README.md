@@ -11,7 +11,7 @@ some kind of image.
 ## How to use it?
 A simple way to start is to clone the repository, open the eclipse project and run the main function located in class
     
-    jonateam.encryptor.JPEGEncryptor
+    com.jonateam.encryptor.JPEGEncryptor
 
 Also, the two main functions - encryptFile(..) and decryptFile(..) - are located there. You can use them directly from your code.
 
